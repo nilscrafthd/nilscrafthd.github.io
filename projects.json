@@ -14,13 +14,6 @@
     "link": "https://scriptino.linkgames.de"
   },
   {
-    "image": "https://images.linkgames.de/img/projects/linkgames/banner.png",
-    "logo": "https://images.linkgames.de/img/projects/linkgames/logo.png",
-    "title": "Linkgames (Old)",
-    "text": "A profile-sharing platform made with the Discord.js API.",
-    "link": "https://linkgames.de"
-  },
-  {
     "image": "https://images.linkgames.de/img/projects/opinsel/banner.png",
     "logo": "https://images.linkgames.de/img/projects/opinsel/logo.png",
     "title": "OpInsel",
@@ -33,12 +26,5 @@
     "title": "Pixel-Host",
     "text": "A hosting service offering both free and paid options.",
     "link": "https://pixel-host.de"
-  },
-  {
-    "image": "https://images.linkgames.de/img/projects/twitchcopy/banner.png",
-    "logo": "https://images.linkgames.de/img/projects/twitchcopy/logo.png",
-    "title": "Pixel-Host-Stream",
-    "text": "A platform for streaming your screen and connecting OBS.",
-    "link": "https://stream.pixel-host.de"
   }
 ]
